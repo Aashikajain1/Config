@@ -1,0 +1,26 @@
+.cards{
+    height:450px;
+    width:400px;
+    box-shadow:0 0 10px black;
+    border:none;
+    border-radius:10px;
+    margin-left:25px;
+}
+
+.img{
+    width:400px;
+    height:300px;
+    box-shadow: 0 0 10px white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.black{
+    background-color:black;
+}
+.grey{
+    background-color:grey;
+}
+.white{
+    background-color:white;
+}
